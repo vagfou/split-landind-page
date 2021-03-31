@@ -28,10 +28,15 @@ body {
 .split.left {
   left: 0;
   background: url('https://raw.githubusercontent.com/bradtraversy/50projects50days/master/split-landing-page/ps.jpg');
-  
+  background-repeat: no;
+  background-size: cover;
 }
+
+
 
 .split.right {
   right: 0;
   background: url('https://raw.githubusercontent.com/bradtraversy/50projects50days/master/split-landing-page/xbox.jpg');
+  background-repeat: no;
+  background-size: cover;
 }
